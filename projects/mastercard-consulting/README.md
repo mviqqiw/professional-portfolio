@@ -11,4 +11,4 @@ Completed an Advisors & Consulting Services Job Simulation focused on promotion 
 
 ## Certificate
 
-[View Certificate](../../certificates/Advisors%20%26%20Consulting%20Services%20Job%281%29.pdf)
+[View Certificate](../../certificates/Advisors%20%26%20Consulting%20Services%20Job.pdf)
