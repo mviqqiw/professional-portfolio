@@ -14,4 +14,4 @@ Completed an EY Technology Risk Virtual Job Simulation focused on understanding 
 
 ## Certificate
 
-[View Certificate](../../certificates/EY%20Technology%20Risk%20Virtual%20Job%20Simulation%281%29.pdf)
+[View Certificate](../../certificates/EY%20Technology%20Risk%20Virtual%20Job%20Simulation.pdf)
