@@ -14,4 +14,4 @@ Completed an Investment Banking Job Simulation focused on financial analysis, st
 
 ## Certificate
 
-[View Certificate](../../certificates/bank-of-america-investment-banking.pdf)
+[View Certificate](../../certificates/Investment%20Banking%20Job%20Simulation.pdf)
