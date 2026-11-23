@@ -33,4 +33,4 @@ Legends of Aether — Stakeholder Review Preparation
 
 ## Certificate
 
-[View Certificate](../../../certificates/Product%20Management.pdf)
+[View Certificate](https://github.com/mviqqiw/professional-portfolio/blob/main/certificates/Product%20Management.pdf)
