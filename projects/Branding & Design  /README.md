@@ -13,4 +13,4 @@ Completed a Branding & Design Job Simulation focused on understanding brand iden
 
 ## Certificate
 
-[View Certificate](../../Branding%20%26%20Design.pdf)
+[View Certificate](../../certificates/Branding%20%26%20Design.pdf)
