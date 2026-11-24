@@ -15,4 +15,4 @@ Completed an HPE Software Engineering Job Simulation through Forage, focused on 
 
 ## Certificate
 
-[View Certificate](../../certificates/Software%20Engineering%20Job%20Simulation.pdf)
+[View Certificate](../../certificates/HPE%20Software%20Engineering.pdf)
